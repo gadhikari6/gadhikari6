@@ -2,10 +2,9 @@
 
 
 <h2>My Programs As A Developer</h2>
--[A full Stack Project Demonstarting Tasks Managemnt System] (https://github.com/gadhikari6/marks-mgmt-frontend)
-(https://github.com/gadhikari6/marks-mgmt-backend)
--[A Full Stack Project Demonstartinbg a TO-DO-App with login and Signup]
-(https://github.com/gadhikari6/tasks-system)
+-[A full Stack Project Demonstarting Tasks Managemnt System] (https://github.com/gadhikari6/marks-mgmt-frontend),(https://github.com/gadhikari6/marks-mgmt-backend)
+
+-[A Full Stack Project Demonstartinbg a TO-DO-App with login and Signup](https://github.com/gadhikari6/tasks-system)
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
