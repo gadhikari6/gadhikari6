@@ -1,4 +1,12 @@
-<h1>Hi, I'm Gaurab, an <a href="https://linkedin.com/in/Gaurab Adhikari">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gaurab, an <a href="https://linkedin.com/in/Gaurab Adhikari"> Software Developer & IT Professional</a>☺</h1>
+
+
+<h2>My Programs As A Developer</h2>
+-[A full Stack Project Demonstarting Tasks Managemnt System] (https://github.com/gadhikari6/marks-mgmt-frontend)
+(https://github.com/gadhikari6/marks-mgmt-backend)
+-[A Full Stack Project Demonstartinbg a TO-DO-App with login and Signup]
+(https://github.com/gadhikari6/tasks-system)
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
